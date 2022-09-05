@@ -1,0 +1,15 @@
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\bin\Debug\net6.0\tamagotchii.exe
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\bin\Debug\net6.0\tamagotchii.deps.json
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\bin\Debug\net6.0\tamagotchii.runtimeconfig.json
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\bin\Debug\net6.0\tamagotchii.dll
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\bin\Debug\net6.0\tamagotchii.pdb
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.csproj.AssemblyReference.cache
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.AssemblyInfoInputs.cache
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.AssemblyInfo.cs
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.csproj.CoreCompileInputs.cache
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.dll
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\refint\tamagotchii.dll
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.pdb
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\tamagotchii.genruntimeconfig.cache
+C:\Users\lowenbergpettersson\Tamagotchi\tamagotchii\tamagotchii\obj\Debug\net6.0\ref\tamagotchii.dll

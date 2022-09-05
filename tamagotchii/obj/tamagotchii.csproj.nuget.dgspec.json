@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj": {}
+    "C:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj": {
+    "C:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj",
+        "projectUniqueName": "C:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj",
         "projectName": "tamagotchii",
-        "projectPath": "c:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj",
+        "projectPath": "C:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\tamagotchii.csproj",
         "packagesPath": "C:\\Users\\lowenbergpettersson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\obj\\",
+        "outputPath": "C:\\Users\\lowenbergpettersson\\Tamagotchi\\tamagotchii\\tamagotchii\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lowenbergpettersson\\AppData\\Roaming\\NuGet\\NuGet.Config"

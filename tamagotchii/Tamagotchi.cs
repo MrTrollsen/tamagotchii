@@ -1,23 +1,40 @@
 using System;
 
-namespace tamagotchii;
-
-public class Tamagotchi
+public class tamaGotchi
 {
     private int hunger;
     private int boredom;
     private List<string> words = new List<string>() { "hello", "feed me" };
     private bool isAlive;
 
-    private Random rnd = new Random();
+    private Random generator;
 
     public string name;
 
-    public void feed();
+    public void feed()
     {
 
     }
-    public void hi();
+    public void hi()
+    {
+
+    }
+    public void teachString()
+    {
+
+    }
+
+    public void tick()
+    {
+
+    }
+    public void printStats()
+    {
+
+    }
+    public bool getAlive = true;
+
+    private void reduceBoredom()
     {
 
     }
